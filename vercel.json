@@ -2,9 +2,7 @@
   "version": 2,
   "functions": {
     "api/*.php": {
-      "runtime": "vercel-php@0.7.0",
-      "memory": 1024,
-      "maxDuration": 10
+      "runtime": "vercel-php@0.7.0"
     }
   },
   "routes": [
